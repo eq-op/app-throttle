@@ -2,9 +2,7 @@
 Set Windows app or game process priority (high, normal, low) on-the-fly via hot keys. 
 
 What Is Process Priority? <br>
-Process priority in Windows determines how the operating system allocates CPU resources to running applications. Every process is assigned a priority level that influences how often it gets scheduled for execution compared to others. Think of it as giving a task a louder (or quieter) “voice” in asking the CPU for attention. 
-
-App-Throttle supports HIGH, NORMAL and LOW process priority settings for a given app or game. <br>
+Process priority in Windows determines how the operating system allocates CPU resources to running applications. Every process is assigned a priority level that influences how often it gets scheduled for execution compared to others. Think of it as giving a task a louder (or quieter) “voice” in asking the CPU for attention. App-Throttle supports HIGH, NORMAL and LOW process priority settings for a given app or game. <br> <br>
 HIGH: Suitable for tasks that must run promptly like games or video renderings. <br>
 NORMAL: Default for most apps - balanced resource sharing. <br>
 LOW: Minimum priority, ideal for background applications. 
