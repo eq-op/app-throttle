@@ -11,11 +11,10 @@ LOW: Minimum priority, ideal for background applications.
 
 Usage: <br>
 Run App-Throttle.exe. <br>
-Set the priority of the active application: <br>
-HIGH: CTRL+ALT+H <br> 
-NORMAL: CTRL+ALT+N <br> 
-LOW: CTRL+ALT+L <br>
-<br>
+Set the priority of the active application or game via hotkeys: <br> <br>
+HIGH: <br> CTRL+ALT+H <br> <br>
+NORMAL: <br> CTRL+ALT+N <br> <br>
+LOW: <br> CTRL+ALT+L <br> <br>
 How to start App-Throttle automatically with Windows: <br>
 Click start. Type RUN and press ENTER. Type SHELL:STARTUP and press ENTER. <br>
 Drag & drop app-throttle.exe to the startup folder with 2nd mouse button and select "Create shortcut here." <br>
@@ -24,4 +23,9 @@ AUTHOR: Equipment Operator <br>
 https://www.youtube.com/@equipmentoperator <br>
 <br>
 TERMS: <br>
-Under the below license App-Throttle users may use, modify and build on this project assuming said usage and/or adaptation is NOT for ANY commercial purpose. Any adaptations of this project must be shared under the same license. Author attribution including link-back to original project is required.
+Under the below license App-Throttle users may use, modify and build on this project assuming said usage and/or adaptation is NOT for ANY commercial purpose. Any adaptations of this project must be shared under the same license. Author attribution including link-back to original project is required. <br>
+
+## License
+This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
